@@ -19,7 +19,7 @@ import static com.hmdp.utils.RedisConstants.*;
 
 /**
  * Created with IntelliJ IDEA.
- *
+ *  Redis缓存封装类
  * @Author: 你的名字
  * @Date: 2023/05/15/21:37
  * @Description:
